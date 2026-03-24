@@ -6,7 +6,7 @@ Persistent memory layer for AI coding agents. Survives context window resets, ne
 
 ## What it does
 
-AI coding assistants forget everything between sessions. You spend time figuring out that a certain endpoint rejects `+` in emails, or that a particular middleware is causing a bug — and next session, you explain it all over again.
+AI coding assistants forget everything between sessions. You spend time figuring out that a certain endpoint rejects `+` in emails, or that a particular middleware is causing a bug;and next session, you explain it all over again.
 
 agora-code fixes this by automatically:
 - Loading your last session state at the start of every conversation
